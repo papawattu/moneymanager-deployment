@@ -3,4 +3,5 @@ kind: Kustomization
 namespace: moneymanager-app
 resources:
 - namespace.yaml
+- deployment.yaml
 
