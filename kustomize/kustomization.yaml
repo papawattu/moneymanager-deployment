@@ -3,8 +3,4 @@ kind: Kustomization
 namespace: moneymanager-app
 resources:
 - namespace.yaml
-- deployment.yaml
-images:
-- name: account
-  newName: papawattu/moneymanager-account
-  newTag: "1234"
+
