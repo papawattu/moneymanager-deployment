@@ -5,6 +5,6 @@ resources:
 - namespace.yaml
 - deployment.yaml
 images:
-- name: account
+- name: papawattu/moneymanager-account
   newName: papawattu/moneymanager-account
   newTag: ed3157720e114edfe7c7c0b83096afdef9ada507
